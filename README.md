@@ -5,8 +5,8 @@ NOTE: OVAs and ISOs for projects are not uploaded on this Github page. Important
 
 Ch.1: None
 
-Ch.2: Badstore_123s.iso (Found on VulnHub, https://www.vulnhub.com/entry/badstore-123,41/)
-      CsharpVulnJson.ova (Found on VulnHub, https://www.vulnhub.com/entry/csharp-vulnjson,134/)
+Ch.2: Badstore_123s.iso (Found on VulnHub, https://www.vulnhub.com/entry/badstore-123,41/),
+      CsharpVulnJson.ova (Found on VulnHub, https://www.vulnhub.com/entry/csharp-vulnjson,134/),
       burpsuite.jar      (Found on PortSwigger, https://portswigger.net/burp)
       
       Note: After burpsuite is installed, run it via java -jar in the command line, create a default burp project,
