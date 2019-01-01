@@ -1,7 +1,7 @@
 # GrayHatCS
 Various projects I did as part of my reading of "Gray Hat C#" by Brandon Perry.
 
-NOTE: OVAs and ISOs for projects are not uploaded on this Github page. Important ISOs and OVAs noted below
+Note: OVAs and ISOs for projects are not uploaded on this Github page. Important ISOs and OVAs noted below
 
 Ch.1: None
 
