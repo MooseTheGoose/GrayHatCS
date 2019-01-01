@@ -1,0 +1,13 @@
+POST /Vulnerable.ashx HTTP/1.1
+Host: 192.168.56.101
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:64.0) Gecko/20100101 Firefox/64.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.56.101/
+Content-Type: application/json; charset=UTF-8
+Content-Length: 215
+Connection: close
+Cookie: ASP.NET_SessionId=6DDF4978264DC29153EE4249
+
+{"username":"Falco_Lombardi","password":"Iprefertheair","age":27,"line1":"2365 Bird Ave.","line2":"","city":"Terrance","state":"Flaria","zip":12345,"first":"Falco","middle":"Ace","last":"Lombardi","method":"create"}
